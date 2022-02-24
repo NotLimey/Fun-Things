@@ -6,8 +6,6 @@ import os
 # Get the size
 # of the terminal
 
-  
-
 show = 1
 
 while show is 1:
